@@ -1,3 +1,5 @@
+#Aplicando tratamento de exceção em uma lista sequencial
+
 from typing import List
 
 
