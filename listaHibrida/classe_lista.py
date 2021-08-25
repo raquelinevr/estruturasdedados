@@ -1,5 +1,3 @@
-#busca, inserir final, remover início e remover final
-
 class ListaException(Exception):
     def __init__(self, msg):
         super().__init__(msg)
