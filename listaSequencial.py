@@ -8,8 +8,6 @@ class ListaException(Exception):
         super().__init__(msg)
 
 
-
-
 class ListaSequencial:
 
     def __init__(self):
