@@ -13,7 +13,7 @@ p.empilhar(no2)
 p.empilhar(no3) 
 p.empilhar(no4) 
 
-p.imprime_pilha() #imprimindo na ordem que a posição anterior tava
+p.imprime_pilha() #alocando na ordem que a posição anterior tava
 
 p.desempilhar()
 # p.desempilhar()
