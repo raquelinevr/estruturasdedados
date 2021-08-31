@@ -1,3 +1,5 @@
+#Introdução a Pilha Encadeada, sem tratamento de exceção. 
+
 import copy
 class NoPilha(object): #implementação do nó
     def __init__(self, valor):  #quando criar o nó ele vai ser inicializado com um valor
