@@ -1,4 +1,4 @@
 # ED 2021.1
-Repositório da Disciplina de Estrutura de Dados
+Repositório da Disciplina de Estrutura de Dados com Python
 
 
