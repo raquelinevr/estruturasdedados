@@ -1,3 +1,5 @@
+# Implementação de uma Fila Encadeada
+
 import copy
 class NoFila:
     def __init__(self, valor = None):
@@ -86,17 +88,5 @@ class FilaEncadeada:
                 print('Pos: ', pos, 'val: ', no_atual.get_valor())
                 no_atual = proximo_no
                 pos +=1
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+                
+               
